@@ -1,6 +1,6 @@
 ### Predictive-Maintenance-Workflow
 
-Some notes of binary classification on when is the next item replacement or maintenance /Machine failure will occur predication
+Some notes of my binary classification on next maintenance /Machine failure will occur
 
 *Steps*:
 1. Generate history of exact date where the repair/customer call for maintenance occurred
